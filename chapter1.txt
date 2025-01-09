@@ -24,3 +24,5 @@ d-----        09-01-2025     14:26                gitstory
 10. git status (too uncommited files)
 11. git add ( to commit changes)
 12. git add . ( to commit on each files at once)
+13. git diff chapter3.txt(to deleted/ealier part)
+14.  git checkout chapter3.txt (to roll back the file to the last version)
