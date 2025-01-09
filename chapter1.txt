@@ -1,1 +1,26 @@
 the best or nothing
+
+1.  mkdir gitstory
+
+
+    Directory: C:\Users\ABHISHEIK\Downloads\WEB DEVELOPMENT
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        09-01-2025     14:26                gitstory
+
+2. npm install touch-cli -g
+
+3.touch chapter1.txt
+4. git init
+5.ls
+6. clear (can empty) 
+7.git add chapter1.txt (green staging area)
+8. git commit -m
+ " Chapter1 completed"
+[master (root-commit) 55f12a6]  Chapter1 completed
+9. git log (to see prsl commit)
+10. git status (too uncommited files)
+11. git add ( to commit changes)
+12. git add . ( to commit on each files at once)
