@@ -3,7 +3,7 @@ the best or nothing
 1.  mkdir gitstory
 
 
-    Directory: C:\Users\ABHISHEIK\Downloads\WEB DEVELOPMENT
+    Directory: C:\Users\ABHI\WEB DEVELOPMENT
 
 
 Mode                 LastWriteTime         Length Name
